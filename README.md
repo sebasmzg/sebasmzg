@@ -9,30 +9,43 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Mobile Development by Self
+- Environmental scientist 🌱
+- A passionate Self-taught developer 💻
 - Personal website [link](https://portfolio-lyart-seven-62.vercel.app/)
 
+<h2 align="left">I code with</h2>
 
-<br><br>
+###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebasmzg&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-<a href="https://github.com/sebasmzg/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=sebasmzg&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/sebasmzg/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasmzg&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/sebasmzg/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=sebasmzg&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/sebasmzg/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasmzg&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebasmzg/sebasmzg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebasmzg/sebasmzg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sebasmzg/sebasmzg/output/github-contribution-grid-snake.svg">
-</picture>  
+<img src="https://raw.githubusercontent.com/sebasmzg/sebasmzg/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebasmzg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasmzg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
