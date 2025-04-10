@@ -1,13 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+J.Sebastián+Muñoz!;" />
-<!--  -->
+
 
 <br>
 	
 ##  **👨🏻‍💻 About me**
-
-<picture> <img align="right" src="https://github.com/sebasmzg/sebasmzg/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 
 - Environmental scientist 🌱
 - A passionate Self-taught developer 💻
@@ -35,11 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+	<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sebasmzg/sebasmzg/output/snake.svg" alt="Snake animation" />
 
 ###
 
